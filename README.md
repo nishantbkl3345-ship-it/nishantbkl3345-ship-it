@@ -4,10 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Self-Taught+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Python+%7C+Go+%7C+Docker+Explorer;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://github.com/nishantbkl3345-ship-it"><img src="https://img.shields.io/github/followers/nishantbkl3345-ship-it?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a1a1a" alt="GitHub followers"></a>
-  <a href="https://github.com/nishantbkl3345-ship-it"><img src="https://img.shields.io/github/stars/nishantbkl3345-ship-it?label=Stars&style=for-the-badge&color=00D9FF&labelColor=1a1a1a" alt="GitHub stars"></a>
-</p>
+
 
 </div>
 
