@@ -80,6 +80,30 @@ me.say_hi()
 
 ---
 
+## 🏅 Open Source & Security Credentials
+
+<div align="center">
+
+### 🛡️ The Linux Foundation
+
+<a href="https://credly.com/earner/earned/badge/3854d1e1-dc20-4f7b-b77f-7532616e2e84">
+  <strong>Security Slam Fall 2026 — DEFENDER Badge</strong>
+</a>
+
+<br/><br/>
+
+<a href="https://credly.com/earner/earned/badge/8fcb89e3-7d31-4607-8557-04b4f84c23f8">
+  <strong>Security Slam 2026 — Security Advocate</strong>
+</a>
+
+<br/><br/>
+
+<sub>Verified digital credentials issued by The Linux Foundation</sub>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
